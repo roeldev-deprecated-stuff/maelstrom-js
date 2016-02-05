@@ -14,7 +14,7 @@
   [david-img]: https://david-dm.org/roeldev/maelstrom-js.svg
   [david-url]: https://david-dm.org/roeldev/maelstrom-js
 
-**Sass related gulp tasks for maelstrom**
+**Javascript related gulp tasks for maelstrom**
 
 
 ## How to use
@@ -31,9 +31,9 @@
 
 ## More info
 - [maelstrom][docs-maelstrom]
-- [gulp-sass][docs-gulp-sass]
-- [gulp-scss-lint][docs-gulp-scss-lint]
-- [gulp-cssnano][docs-gulp-cssnano]
+- [gulp-jscs][docs-gulp-jscs]
+- [gulp-jshint][docs-gulp-jshint]
+- [gulp-uglify][docs-gulp-uglify]
 
 
 ## License
@@ -41,6 +41,6 @@
 
 
 [docs-maelstrom]: https://github.com/roeldev/maelstrom
-[docs-gulp-sass]: https://www.npmjs.com/package/gulp-sass
-[docs-gulp-scss-lint]: https://www.npmjs.com/package/gulp-scss-lint
-[docs-gulp-cssnano]: https://www.npmjs.com/package/gulp-cssnano
+[docs-gulp-jscs]: https://www.npmjs.com/package/gulp-jscs
+[docs-gulp-jshint]: https://www.npmjs.com/package/gulp-jshint
+[docs-gulp-uglify]: https://www.npmjs.com/package/gulp-uglify

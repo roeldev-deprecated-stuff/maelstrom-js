@@ -3,7 +3,7 @@
   "name": "maelstrom-js",
   "version": "0.1.0",
   "homepage": "https://github.com/roeldev/maelstrom-js",
-  "description": "JS related gulp tasks for maelstrom",
+  "description": "Javascript related gulp tasks for maelstrom",
   "author": "Roel Schut (http://roelschut.nl)",
   "license": "GPL-2.0+",
   "main": "lib/index.js",
