@@ -1,18 +1,17 @@
 /**
- * project-name | test/main.js
- * file version: 0.00.001
+ * maelstrom-js | test/main.js
  */
 'use strict';
 
-var Assert      = require('assert');
-var ProjectName = require('../index.js');
-var Path        = require('path');
+const Assert   = require('assert');
+const JsPlugin = require('../lib/index.js');
+const Path     = require('path');
 
-////////////////////////////////////////////////////////////////////////////////
+// // // // // // // // // // // // // // // // // // // // // // // // // // //
 
 function getFixtureFile($file)
 {
     return Path.resolve(__dirname, './fixtures/' + $file);
 }
 
-//------------------------------------------------------------------------------
+// -----------------------------------------------------------------------------
